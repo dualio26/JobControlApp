@@ -1,6 +1,3 @@
-# JobControlApp
-Job Control App
-=======
 # JobControl
 
 ## Build Setup
