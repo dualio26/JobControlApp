@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JobControlApp
 Job Control App
 =======
