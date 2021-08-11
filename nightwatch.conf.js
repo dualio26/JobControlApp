@@ -39,7 +39,7 @@ module.exports = {
 
       webdriver: {
         start_process: true,
-        server_path: 'node_modules/.bin/chromedriver',
+        server_path: 'node_modules/.bin/selenium-server-standalone-4.0.0-alpha-2.jar',
         port: 9515
       }
     },
